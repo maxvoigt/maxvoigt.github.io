@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a PhD student in financial economis at the Frankfurt School, and a research assistant at the Chair of Economic Theory I (Sebastian Ebert) at Heidelberg University. Prior to my doctoral studies, I worked at different investment banks and studied financial economics at the University of Oxford. 
+I’m a PhD student in financial economics at the Frankfurt School, and a research assistant at the Chair of Economic Theory I (Sebastian Ebert) at Heidelberg University. Prior to my doctoral studies, I worked at different investment banks and studied financial economics at the University of Oxford. 
 
 I will be participating in the 2023-2024 academic job market.
 

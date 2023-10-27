@@ -15,7 +15,8 @@ I will be participating in the 2023-2024 academic job market.
 <hr style="border-top-color:black">
 Job Market Paper — Asset pricing under selective memory
 ------
-I analyze the effect of selective and stochastic memory on asset prices. In line with evidence from psychology, I consider an agent who is more likely to remember some experiences than others (selective memory), while the recall of any experience is probabilistic. Selective memory provides an empirically relevant alternative to time-varying risk-aversion, disaster risk, or long-run risk as explanation for asset pricing puzzles.  
+I study asset prices in an economy in which a representative agent learns from selectively recalled experiences. Human memory research demonstrates that environmental cues trigger the retrieval of recent as well as distant experiences. I thus analyze an agent who remembers some experiences more than others but updates beliefs as if only recalled experiences occurred.
+With IID fundamentals and constant risk-aversion, expected returns are procyclical, while risk-premia are countercyclical and the perceived volatility of the economy systematically varies over time. Selective memory thus provides a psychologically well-founded explanation of standard asset pricing evidence.
 
 (Draft coming soon)
 

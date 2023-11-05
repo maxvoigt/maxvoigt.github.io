@@ -15,10 +15,9 @@ I will be participating in the 2023-2024 academic job market.
 <hr style="border-top-color:black">
 Job Market Paper — Asset pricing under selective memory
 ------
-I study asset prices in an economy in which a representative agent learns from selectively recalled experiences. Human memory research demonstrates that environmental cues trigger the retrieval of recent as well as distant experiences. I thus analyze an agent who remembers some experiences more than others but updates beliefs as if only recalled experiences occurred.
-With IID fundamentals and constant risk-aversion, expected returns are procyclical, while risk-premia are countercyclical and the perceived volatility of the economy systematically varies over time. Selective memory thus provides a psychologically well-founded explanation of standard asset pricing evidence.
+Evidence in economics and psychology emphasizes the central role of selective memory for belief formation. Motivated by these findings, I propose a consumption-based asset pricing model in which the representative agent forms Bayesian beliefs based on selectively recalled observations of fundamentals. I demonstrate that <i>similarity</i>&mdashthe selective recall of past fundamentals that are similar to today's fundamental&mdashcaptures procyclical and overreacting expectations, countercyclical subjective volatility, and a low volatility of the subjective risk premium. The objective risk premium, on the contrary, is predictably countercyclical, volatile, and unrelated to objective risk measures. In addition, I show how my framework can be used to analyze further memory distortions by considering an extreme experience bias.
 
-(Draft coming soon)
+[Download paper here](http://maxvoigt.github.io/files/Voigt_JMP_BeliefsAssetPrices.pdf)
 
 <hr style="border-top-color:black; margin-block-end:0">
 Working Papers

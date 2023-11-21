@@ -13,9 +13,9 @@ I’m a PhD candidate in Financial Economics at the Frankfurt School, and a rese
 I will be participating in the 2023-2024 academic job market.
 
 <hr style="border-top-color:black">
-Job Market Paper — Investor beliefs and asset prices under selective memory
+Job Market Paper — Investor Beliefs and Asset Prices Under Selective Memory
 ------
-I present a consumption-based asset pricing model in which the representative agent forms Bayesian beliefs based on selectively recalled observations. The agent is more likely to recall past fundamentals that resemble current fundamentals. This similarity-weighted selective memory jointly explains important facts about belief formation, survey data, and realized asset prices. Subjective expectations overreact and are procyclical, the subjective volatility is countercyclical, and the subjective risk premium has a low volatility. In contrast, realized returns are predictably countercyclical, highly volatile, and unrelated to variation of objective risk measures. My results suggest that human memory can simultaneously account for individual-level data and aggregate asset pricing facts.
+I present a consumption-based asset pricing model in which the representative agent selectively recalls past fundamentals that resemble current fundamentals and updates beliefs as if the recalled observations are all that occurred. This similarity-weighted selective memory jointly explains important facts about belief formation, survey data, and realized asset prices. Subjective expectations overreact and are procyclical, the subjective volatility is countercyclical, and the subjective risk premium has a low volatility. In contrast, realized returns are predictably countercyclical, highly volatile, and unrelated to variation of objective risk measures. My results suggest that human memory can simultaneously account for individual-level data and aggregate asset pricing facts.
 
 [Download paper here](http://maxvoigt.github.io/files/Voigt_JMP_BeliefsAssetPrices.pdf)
 
@@ -28,6 +28,6 @@ Eliciting Stopping Times (with [Sebastian Ebert](https://sites.google.com/site/e
   </details>
 
 <br>
-Learning and strategic trading in ETF markets [[Paper](http://maxvoigt.github.io/files/Voigt2023_ETFMarkets.pdf)]
+Learning and Strategic Trading in ETF Markets [[Paper](http://maxvoigt.github.io/files/Voigt2023_ETFMarkets.pdf)]
   <details style="margin-top:-1em"><summary>Abstract</summary>Designated broker-dealers arbitrage away differences between the market price of an ETF and the net asset value of the underlying assets. Using a dynamic strategic trading model, I show that this arbitrage mechanism increases long-term price informativeness but reduces short-term price informativeness. The information contained in the ETF price leads to additional learning, which improves long-term price informativeness. However, traders informed about the value of an underlying asset use their informational advantage to forecast arbitrage-induced price changes of all other assets contained in the ETF. The predictability of future price changes induces speculative cross-asset trading, which reduces short-term price informativeness. Thus, regulation targeting ETFs must balance short- and long-term price informativeness.
   </details>

@@ -325,3 +325,9 @@
 .fa.fa-pull-right {
   margin-left: .3em;
 }
+
+ul {
+  padding-left: 0;
+  list-style: none;
+  list-style-position: inside;
+}​

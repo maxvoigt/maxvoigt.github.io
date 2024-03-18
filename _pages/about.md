@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a PhD candidate in Financial Economics at the Frankfurt School, and a research assistant at the Chair of Economic Theory I at Heidelberg University. Prior to my doctoral studies, I studied financial economics at the University of Oxford and gained industry experience. 
-
-I will be participating in the 2023-2024 academic job market.
+I’m a PhD candidate in Financial Economics at the Frankfurt School, and a visiting researcher at the Chair of Economic Theory I at Heidelberg University. Prior to my doctoral studies, I studied financial economics at the University of Oxford and gained industry experience. 
 
 <hr style="border-top-color:black">
 Job Market Paper — Investor Beliefs and Asset Prices Under Selective Memory

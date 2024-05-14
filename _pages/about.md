@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I will be joining the HEC Montréal as an Assistant Professor of Finance in August 2024.
+I will be joining HEC Montréal as an Assistant Professor of Finance in August 2024.
 
 I am a PhD candidate in Financial Economics at the Frankfurt School, and a visiting researcher at the Chair of Economic Theory I at Heidelberg University. Prior to my doctoral studies, I studied Financial Economics at the University of Oxford and gained industry experience. 
 

@@ -22,7 +22,7 @@ Investor Beliefs and Asset Prices Under Selective Memory [[Paper](http://maxvoig
   <details style="margin-top:-1em"><summary>Abstract</summary>I present a consumption-based asset pricing model in which the representative agent selectively recalls past fundamentals that resemble current fundamentals and updates beliefs as if the recalled observations are all that occurred. This similarity-weighted selective memory jointly explains important facts about belief formation, survey data, and realized asset prices. Subjective expectations overreact and are procyclical, the subjective volatility is countercyclical, and the subjective risk premium has a low volatility. In contrast, realized returns are predictably countercyclical, highly volatile, and unrelated to variation of objective risk measures. My results suggest that human memory can simultaneously account for individual-level data and aggregate asset pricing facts.
   </details>
 
-
+<br>
 Eliciting Stopping Times (with [Sebastian Ebert](https://sites.google.com/site/ebertecon/home)) [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4526931)]
   <ul style="margin-top:-1.3em">
    <li><i>Conferences:</i> 50th EGRIE Seminar, European Decision Sciences Day 2023, SEF 2023</li>

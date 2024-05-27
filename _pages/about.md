@@ -12,19 +12,16 @@ I will be joining HEC Montréal as an Assistant Professor of Finance in August 2
 
 I am a PhD candidate in Financial Economics at the Frankfurt School, and a visiting researcher at the Chair of Economic Theory I at Heidelberg University. Prior to my doctoral studies, I studied Financial Economics at the University of Oxford and gained industry experience. 
 
-<hr style="border-top-color:black">
-Job Market Paper — Investor Beliefs and Asset Prices Under Selective Memory
-------
-<ul style="margin-top:-1.3em">
-   <li><i>Conferences:</i> WFA 2024, FTG Summer School 2023</li>
-</ul>
-I present a consumption-based asset pricing model in which the representative agent selectively recalls past fundamentals that resemble current fundamentals and updates beliefs as if the recalled observations are all that occurred. This similarity-weighted selective memory jointly explains important facts about belief formation, survey data, and realized asset prices. Subjective expectations overreact and are procyclical, the subjective volatility is countercyclical, and the subjective risk premium has a low volatility. In contrast, realized returns are predictably countercyclical, highly volatile, and unrelated to variation of objective risk measures. My results suggest that human memory can simultaneously account for individual-level data and aggregate asset pricing facts.
-
-[Download paper here](http://maxvoigt.github.io/files/Voigt_JMP_BeliefsAssetPrices.pdf)
-
 <hr style="border-top-color:black; margin-block-end:0">
 Working Papers
 ------
+Investor Beliefs and Asset Prices Under Selective Memory [[Paper](http://maxvoigt.github.io/files/Voigt24_BeliefsAssetPrices.pdf)]
+  <ul style="margin-top:-1.3em">
+   <li><i>Conferences:</i> NFA 2024, WFA 2024, FTG Summer School 2023</li>
+  </ul>
+  <details style="margin-top:-1em"><summary>Abstract</summary>I present a consumption-based asset pricing model in which the representative agent selectively recalls past fundamentals that resemble current fundamentals and updates beliefs as if the recalled observations are all that occurred. This similarity-weighted selective memory jointly explains important facts about belief formation, survey data, and realized asset prices. Subjective expectations overreact and are procyclical, the subjective volatility is countercyclical, and the subjective risk premium has a low volatility. In contrast, realized returns are predictably countercyclical, highly volatile, and unrelated to variation of objective risk measures. My results suggest that human memory can simultaneously account for individual-level data and aggregate asset pricing facts.
+  </details>
+
 
 Eliciting Stopping Times (with [Sebastian Ebert](https://sites.google.com/site/ebertecon/home)) [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4526931)]
   <ul style="margin-top:-1.3em">

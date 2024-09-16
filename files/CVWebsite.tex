@@ -1,0 +1,198 @@
+% LaTeX file for resume 
+% This file uses the resume document class (res.cls)
+
+\documentclass{res} 
+\pagestyle{plain} 
+%\usepackage{helvetica} % uses helvetica postscript font (download helvetica.sty)
+%\usepackage{newcent}   % uses new century schoolbook postscript font 
+\setlength{\textheight}{9.2in} % increase text height to fit on 1-page 
+\RequirePackage[colorlinks,citecolor=blue,linkcolor=blue,urlcolor=blue]{hyperref}
+
+\usepackage{indentfirst}
+\usepackage{multicol}
+\setlength\columnsep{3cm}
+
+\newcommand{\sectionline}{	\vspace{-8pt}
+	{\parindent-\sectionwidth \rule{\resumewidth}{0.4pt}} }
+
+\newenvironment{nstabbing}
+  {\setlength{\topsep}{-\parskip}%
+   \setlength{\partopsep}{0pt}%
+   \tabbing}
+  {\endtabbing}
+
+\renewcommand{\namefont}{\huge\bf}
+\renewcommand{\sectionfont}{\large\bf}
+
+\newsectionwidth{0.2cm}
+
+
+\begin{document} 
+
+\name{Maximilian Voigt\\[12pt]}     % the \\[12pt] adds a blank
+				        % line after name      
+
+\address{HEC Montréal\\3000, chemin de la Côte-Sainte-Catherine\\Montréal (Québec)\\Canada H3T 2A7}
+\address{Phone: +1 514 340-6424\\ E-mail: maximilian.voigt@hec.ca\\ \href{https://maxvoigt.github.io}{Personal website}}
+                                  
+\begin{resume}
+
+\section{Research Interests}
+    \sectionline
+	Asset Pricing, 
+    Behavioral Economics and Finance, Decision Making under Risk and Uncertainty
+ 
+\section{Academic Positions} 	
+	\sectionline
+	\textbf{HEC Montréal} \hfill 08-2021 - Present \\
+    Assistant Professor of Finance \medskip \\
+	\textbf{Heidelberg University} \hfill Spring 2022 - Fall 2023\\
+	Researcher at the Chair for Economic Theory I (Sebastian Ebert)  \medskip \\
+	\textbf{Yale University}  \hfill Fall 2022 - Spring 2023\\
+	Visiting Assistant in Research at the Economics Department 
+
+\section{Education} 	
+	\sectionline
+	\textbf{Frankfurt School of Finance \& Management} \hfill Fall 2018 - Present \\
+    Ph.D. in Financial Economics, \textit{Summa cum laude} \medskip \\   
+	\textbf{Oxford University}, Sa\"{i}d Business School \hfill Fall 2016 - Fall 2017\\
+    M.Sc. in Financial Economics, \textit{Distinction} \medskip \\
+	\textbf{Frankfurt School of Finance \& Management} \hfill Fall 2011 - Spring 2015\\
+    B.Sc. in Management, Philosophy \& Economics, \textit{93.25\%} \medskip \\  
+	\textbf{Nanyang Technological University}, Singapore \hfill Fall 2013 \\
+    Exchange student in Mathematical Economics
+     
+\section{Working Papers} 	
+	\sectionline
+    \textbf{Investor Beliefs and Asset Prices Under Selective Memory} (\href{http://maxvoigt.github.io/files/Voigt_JMP_BeliefsAssetPrices.pdf}{Available here}) \\
+	I present a consumption-based asset pricing model in which the representative agent selectively recalls past fundamentals that resemble current fundamentals and updates beliefs as if the recalled observations are all that occurred. This similarity-weighted selective memory jointly explains important facts about belief formation, survey data, and realized asset prices. Subjective expectations overreact and are procyclical, the subjective volatility is countercyclical, and the subjective risk premium has a low volatility. In contrast, realized returns are predictably countercyclical, highly volatile, and unrelated to variation of objective risk measures. My results suggest that human memory can simultaneously account for individual-level data and aggregate asset pricing facts.
+	\medskip
+	\\
+    \textbf{Eliciting Stopping Times} (joint with Sebastian Ebert; \href{https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4526931}{Available here})\\
+    We propose an experimental method to elicit stopping times—each subject’s complete contingent plan for taking a risk for up to five times—to study repeated risk-taking under precommitment. In addition to time- and outcome-contingent risk-taking, we allow some subjects to use path-dependent or randomized stopping times. Our experimental design thus allows for hundreds of different risk-taking plans. Using an unsupervised machine-learning algorithm, we find that individuals’ risk-taking strategies map well to stop-loss, take-profit, or buy-and-hold strategies. Most strategies are of a continue-when-winning and stop-when-losing type, with a profit-trailing stopping barrier. Path-dependence and randomization are used extensively, even if they are costly. We further analyze dynamic consistency in a sequential risk-taking task and find that subjects largely follow the unconstrained plans that we elicited. 
+	\medskip
+    \\ \\
+    \textbf{Learning and Strategic Trading in ETF Markets} (\href{http://maxvoigt.github.io/files/Voigt2023_ETFMarkets.pdf}{Available here}) \\
+    Designated broker-dealers arbitrage away differences between the market price of an ETF and the net asset value of the underlying assets. Using a dynamic strategic trading model, I show that this arbitrage mechanism increases long-term price informativeness but reduces short-term price informativeness. The information contained in the ETF price leads to additional learning, which improves long-term price informativeness. However, traders informed about the value of an underlying asset use their informational advantage to forecast arbitrage-induced price changes of all other assets contained in the ETF. The predictability of future price changes induces speculative cross-asset trading, which reduces short-term price informativeness. Thus, regulation targeting ETFs must balance short- and long-term price informativeness.
+    
+\section{Presentations} 	
+	\sectionline
+	\vspace{-3ex}
+    \begin{nstabbing}
+	2024 \qquad \qquad \qquad \= WFA, NFA (scheduled), Research in Behavioral Finance Conference (scheduled), \\
+	\> 	Canadian Junior Faculty Conference (scheduled) \\[0.5ex]
+	2023 \> 9th HeiKaMaxY, Bonn-Frankfurt-Mannheim PhD Conference, Frankfurt School (2x), \\
+	\>  SEF Conference Sofia, FTG Summer School, 50th EGRIE Seminar,\\
+	\>  European Decision Sciences Day, Heidelberg University (2x) \\[0.5ex]
+    2022 \> Yale Microeconomic Theory Breakfast, Yale SOM Finance Breakfast, \\
+    \> 15th RGS Doctoral Conference in Economics \\[0.5ex]
+    2021 \> 3rd Future of Financial Information Conference, Market Microstructure \\
+    \> Summer School, NOVA Business School Finance PhD Pitch Perfect \\[0.5ex]
+    2020 \> Frankfurt School
+    \end{nstabbing}
+    
+\section{Awards} 	
+	\sectionline
+	\vspace{-3ex}
+    \begin{nstabbing}
+    2024 \qquad \qquad \qquad \= The Brattle Group Ph.D. Award for Outstanding Research, WFA \\[0.5ex]
+    2023 \> AFA Student Travel Grant for the Annual Meeting in New Orleans \\[0.5ex]
+    2018 \> Dean's List, Sa\"{i}d Business School \\[0.5ex]
+    2015 \> Dean's List, Frankfurt School of Finance \& Management \\[0.5ex]
+    2012 - 2017 \> Scholarship of the Konrad-Adenauer Foundation (academic merit)
+    \end{nstabbing}
+
+\section{Teaching Experience}
+	\sectionline
+	\vspace{-3ex}
+    \begin{nstabbing}
+    2020 ~ \qquad \quad \= \textbf{Instructor} \\
+				\> Foundations of Finance (Master level)  \\[0.5ex]
+    \> \textbf{Teaching Assistant}\\
+					\> for Sebastian Ebert (Behavioural Models, Economics \& Philosophy) \\[0.5ex]
+    2019 \> \textbf{Teaching Assistant} \\
+				\> for Markus Dertwinkel-Kalt and Andreas Grunewald (Business Economics)  \\[0.5ex]
+    \end{nstabbing}
+
+\section{Referee Activity}
+\sectionline
+\vspace{-3ex}
+\begin{nstabbing}
+	Management Science, International Journal of Forecasting
+\end{nstabbing}
+
+%\section{REFEREE ACTIVITY}
+%	\sectionline
+%	Homo Oeconomicus
+	
+\section{Summer School}
+	\sectionline
+	\vspace{-3ex}
+	\begin{nstabbing}
+		2023 \qquad \qquad \qquad \= Finance Theory by the Finance Theory Group \\
+			\> Experimental Finance by the Society for Experimental Finance \\[0.5ex]
+		2022 \> Behavioral Finance by Nicholas Barberis \\[0.5ex]
+		2021 \> Market Microstructure by Thierry Foucault \& Albert Menkveld
+	\end{nstabbing}
+
+\section{Professional Experience}
+	\sectionline
+	\vspace{-3ex}
+   \begin{nstabbing}
+    2015 - 2018 \qquad \quad \= \textbf{Digital Finance Argonauts}, Frankfurt, Germany \\
+    	\> Co-Founder, Venture Capital and Investment Banking Advisory \\[0.5ex]
+	2017 \> \textbf{Macquarie Capital}, Frankfurt, Germany\\
+    	\> Summer analyst, Mergers \& Acquisitions \\[0.5ex]
+	2014 \> \textbf{Rocket Internet}, Bangkok, Thailand\\
+    	\> Summer analyst, Business Development at Foodpanda (Delivery Hero) \\[0.5ex]
+	2013 \> \textbf{Armira Partners}, Munich, Germany\\
+    	\>  Spring analyst, Private Equity
+    \end{nstabbing}
+
+\section{Extracurricular Activities}
+	\sectionline
+	\vspace{-3ex}
+    \begin{nstabbing}
+		Since 2017 \qquad \quad \= Member of the supervisory board of The Digital Workforce Group AG \\[0.5ex]
+		2023 \> Volunteering work at Projeto Lontra, Florianopolis, Brazil (2 weeks)\\[0.5ex]
+    	2020 - 2022 \> Member of Global Shaper's Frankfurt, an initiative of the World Economic Forum; \\
+			\> Co-lead of a project focused on teaching 21st century skills
+	\end{nstabbing}
+
+\section{Programming Skills}
+	\sectionline
+	\vspace{-3ex}
+	\begin{nstabbing}
+	Python (Data Science Stack), oTree (JavaScript, HTML, Python), MATLAB, \LaTeX, Mathematica
+	\end{nstabbing}
+
+\section{References}
+	\sectionline
+	\vspace{-3ex}
+	\begin{nstabbing}
+		\textbf{Francesco Sangiorgi} \hspace{12em} \= \textbf{Sebastian Ebert} \\
+		Frankfurt School of Finance \& Management \> Heidelberg University \\
+		%Professor of Economics \> Associate Professor of Finance \\
+		%Chair of Economic Theory I \> Department of Finance \\
+		f.sangiorgi@fs.de \> sebastian.ebert@awi.uni-heidelberg.de  \\
+		\\
+		\textbf{Nicholas C. Barberis}  \\
+		%Stephen and Camille Schramm Professor of Finance  \\
+		Yale School of Management  \\
+		%School of Management  \\
+		nick.barberis@yale.edu
+	\end{nstabbing}
+
+\section{Personal Information}
+	\sectionline
+	\vspace{-3ex}
+	\begin{nstabbing}
+		Full name \qquad \= Maximilian Voigt \\
+		Date of birth  \> May 28, 1993 \\
+		Citizenship  \> German \\
+		\\
+		Updated \> September 2024
+	\end{nstabbing} 
+
+\end{resume}
+\end{document}

@@ -13,17 +13,16 @@ I am an Assistant Professor of Finance at the HEC Montréal. I completed my Ph.D
 <hr style="border-top-color:black; margin-block-end:0">
 Working Papers
 ------
-**[New]** Eliciting Stopping Times (with [Sebastian Ebert](https://sites.google.com/site/ebertecon/home)) [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4526931)]
+**[New]** Eliciting Stopping Times (with [Sebastian Ebert](https://sites.google.com/site/ebertecon/home)) [[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4526931)]
   <ul style="margin-top:-1.3em">
    <li><i>Conferences:</i> CIRANO Workshop 2024, RBFC 2024, 50th EGRIE Seminar, European Decision Sciences Day 2023, SEF 2023</li>
-   <li>You can find an overview video of the experimental design [here](https://youtu.be/ParT-P9gX04) as well as videos of all experimental studies [here](https://www.youtube.com/playlist?list=PLr_xX-ToY8MNLtLLa3176gLOlw8rcNLmy).</li>
-   <li>An interactive version of the experiment is available [here](https://rtsexpdemo.onrender.com).</li>
+   <li>You can find an overview video of the experimental design <a href="https://youtu.be/ParT-P9gX04">here</a> as well as videos of all experimental studies <a href="https://www.youtube.com/playlist?list=PLr_xX-ToY8MNLtLLa3176gLOlw8rcNLmy">here</a>.</li>
+   <li>An interactive version of the experiment is available <a href="https://rtsexpdemo.onrender.com">here</a>.</li>
   </ul>
   <details style="margin-top:-1em"><summary>Abstract</summary>We propose an experimental method to elicit stopping times. Using an interactive tool, subjects specify complete contingent plans of when to continue or stop taking a given risk. We document five main results: (1) Stopping times differ significantly between subjects. A machine-learning algorithm classifies 39% of the strategies as stop-loss and 29% as buy-and-hold. (2) Trailing stop-loss strategies are 1.5 times more common than threshold stop-loss strategies. Restricting choices to threshold strategies does not affect aggregate stopping times. (3) A structural prospect theory estimation aligns closely with an unsupervised machine-learning algorithm, suggesting a good descriptive fit of prospect theory. (4) Most subjects use path-dependence and randomization if available. (5) 60% of subjects choose their stopping time by forward instead of backward induction (26%). We also compare planned with actual (sequential) risk-taking and document the causal effects of memory, defaults, planning constraints, and planning as such on dynamic consistency.
   </details>
+
 <br>
-
-
 Investor Beliefs and Asset Prices Under Selective Memory [[Paper](http://maxvoigt.github.io/files/Voigt24_BeliefsAssetPrices.pdf)]
   <ul style="margin-top:-1.3em">
    <li>Brattle Group PhD Candidate Award for Outstanding Research, 2024 WFA Conference</li>

@@ -15,7 +15,7 @@ Working Papers
 ------
 **[New]** Eliciting Stopping Times (with [Sebastian Ebert](https://sites.google.com/site/ebertecon/home)) [[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4526931)]
   <ul style="margin-top:-1.3em">
-   <li><i>Conferences:</i> RBFC 2024, 50th EGRIE Seminar, European Decision Sciences Day 2023, SEF 2023</li>
+   <li><i>Conferences:</i> CIRANO Workshop 2024, RBFC 2024, 50th EGRIE Seminar, European Decision Sciences Day 2023, SEF 2023</li>
    <li>You can find an overview video of the experimental design [here](https://youtu.be/ParT-P9gX04) as well as videos of all experimental studies [here](https://www.youtube.com/playlist?list=PLr_xX-ToY8MNLtLLa3176gLOlw8rcNLmy).</li>
    <li>An interactive version of the experiment is available [here](https://rtsexpdemo.onrender.com).</li>
   </ul>

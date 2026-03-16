@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1762184256.77528 "/Users/maximilianvoigt/Dropbox/Website/GithubPage/files/CVWebsite.tex" "CVWebsite.pdf" "CVWebsite" 1762184257.08461 0
-  "/Users/maximilianvoigt/Dropbox/Website/GithubPage/files/CVWebsite.tex" 1762184256.6122 10914 ffcf3d1cf405752486ff099543e2e23d ""
+["pdflatex"] 1773696431.19238 "/Users/maximilianvoigt/Dropbox/Website/GithubPage/files/CVWebsite.tex" "CVWebsite.pdf" "CVWebsite" 1773696431.53172 0
+  "/Users/maximilianvoigt/Dropbox/Website/GithubPage/files/CVWebsite.tex" 1773696431.03113 10608 e7e0bc81eb50547ee83274e3a8db0480 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -57,7 +57,7 @@
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
   "CVWebsite.aux" 1762120607.20059 162 87159b23cce7c2b923b11c85495bbd6d "pdflatex"
   "CVWebsite.out" 1762120607.0915 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "CVWebsite.tex" 1762184256.6122 10914 ffcf3d1cf405752486ff099543e2e23d ""
+  "CVWebsite.tex" 1773696431.03113 10608 e7e0bc81eb50547ee83274e3a8db0480 ""
   "res.cls" 1699893059 25066 8ec1e15ab4c53340bc92863668c7be49 ""
   (generated)
   "CVWebsite.aux"
